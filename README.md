@@ -1,4 +1,4 @@
-Privately used for data science clas with dr. jing tang
+Used for data science clas with dr. jing tang
 
 access here:
 https://reporting-lag-days-19285wf3i90fn.streamlit.app/
